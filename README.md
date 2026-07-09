@@ -29,7 +29,7 @@ Do public ligand bioactivity data support a meaningful difference between HADHA 
 - Used ABL1 as a positive-control target for benchmarking
 
 ## Key Findings
-- **Public ligand data for HADHA were extremely limited**: After curation, only 4 usable compounds were retained. This was below the minimum threshold for repeated stratified cross-validation, confirming that no reliable fingerprint-based mmodel can currentl be built for this target from public data alone.
+- **Public ligand data for HADHA were extremely limited**: After curation, only 4 usable compounds were retained. This was below the minimum threshold for repeated stratified cross-validation, confirming that no reliable fingerprint-based model can currently be built for this target from public data alone.
 - **The HADHA ligands occupied a narrow, highly lipophilic chemical space**: which is broadly consistent with the earlier structure-based interpretation that HADHA may preferentially accommodate lipophiic madecassic-acid-like scaffolds relative to ENO1. 
 - **ENO1 achieved near-random classification performance**: but this result most likely reflects broad chemical dissimilarity between ENO1-associated and ABL1-associated ligands rather than genuine ENO1-specific predictive signal.
 - **ABL1 provided a clearer positive-control example with recoverable signal**
