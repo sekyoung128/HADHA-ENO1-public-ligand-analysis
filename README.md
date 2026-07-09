@@ -29,10 +29,11 @@ Do public ligand bioactivity data support a meaningful difference between HADHA 
 - Used ABL1 as a positive-control target for benchmarking
 
 ## Key Findings
-- Public ligand data for HADHA were extremely limited
-- ENO1 showed weak or near-random predictive performance in the current ligand-only setting
-- ABL1 provided a clearer positive-control example with recoverable signal
-- Sparse public data constrained strong conclusions for under-characterised metabolic targets
+- **Public ligand data for HADHA were extremely limited**: After curation, only 4 usable compounds were retained. THis was below the minimum threshold for repeated stratified cross-validation, confirming that no reliable fingerprint-based mmodel can currentl be built for this target from public data alone.
+- **The HADHA ligands occupied a narrow, highly lipophilic chemical space**: which is broadly consistent with the earlier structure-based interpretation that HADHA may preferentially accommodate lipophiic madecassic-acid-like scaffolds relative to ENO1. 
+- **ENO1 achieved near-random classification performance**: but this result most likely reflects broad chemical dissimilarity between ENO1-associated and ABL1-associated ligands rather than genuine ENO1-specific predictive signal.
+- **ABL1 provided a clearer positive-control example with recoverable signal**
+- **Sparse public data constrained strong conclusions for under-characterised metabolic targets**: which highlights a fundamental barrier to applying standard ligand-based methods to novel or underexplored targets in cancer metabolism research.
 
 ## Main interpretation
 
