@@ -10,7 +10,7 @@ Do public ligand bioactivity data support a meaningful difference between HADHA 
 
 ## Why these targets?
 
-- **HADHA** and **ENO1** were kept because they were directly relevant to the earlier structure-based comparison.
+- **HADHA** and **ENO1** were chosen because they were directly relevant to the earlier structure-based comparison.
 - **ABL1** was included as a positive-control target with a substantially larger public ligand dataset, allowing the same workflow to be observed under less data-constrained conditions.
 
 ## Repository contents
